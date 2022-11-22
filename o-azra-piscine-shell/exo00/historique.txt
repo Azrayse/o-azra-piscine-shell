@@ -1,0 +1,2303 @@
+Last login: Wed Nov 16 13:30:57 on ttys000
+azra@MacBook-Air-de-OZDEMIR ~ % ls
+Applications	Downloads	Music		Public
+Desktop		Library		OneDrive	Sites
+Documents	Movies		Pictures
+azra@MacBook-Air-de-OZDEMIR ~ % cd desktop
+azra@MacBook-Air-de-OZDEMIR desktop % nano bonjour.sh
+azra@MacBook-Air-de-OZDEMIR desktop % chmod +x bonjour.sh
+azra@MacBook-Air-de-OZDEMIR desktop % ./bonjour.sh
+Bonjour, quel est votre prénom
+
+bonjour,
+azra@MacBook-Air-de-OZDEMIR desktop % clear
+
+
+
+azra@MacBook-Air-de-OZDEMIR desktop % git clone https://github.com/Azrayse/o-azra-piscine-shell.git
+Cloning into 'o-azra-piscine-shell'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+azra@MacBook-Air-de-OZDEMIR desktop % clear
+
+
+
+
+
+
+
+
+Azra Özdemir-GL01.pdf
+Azra Özdemir_Lettre de motivation.pdf
+CV Azra OZDEMIR.pdf
+Capture d’écran 2022-11-21 à 08.54.46.png
+Capture d’écran 2022-11-21 à 08.54.54.png
+Devoir-Azra Ozdemir-BMI101.docx
+Digital project .docx
+E-commerce.docx
+EMERGING MARKET 
+Environement et pratique 
+Initiation à la recherche-SIMPSONS 
+International Business
+Intro Auditing
+JAVA.docx
+Lettre de motivation_AzraOzdemir.pdf
+MUSEUM.CanCoktail PPT.pdf
+Negociation
+ORAL SK.docx
+Organisation behaviour.pdf
+Ozdemir_Azra_LYON_DO2A.pdf
+PPT .pdf
+Photos
+Piscine00-main
+Projet final.docx
+SÉANCE 8 ET 9.pdf
+VİP
+Visual Studio Code.app
+Washing machine without electricity-Ghana.pdf
+bonjour.sh
+famille
+o-azra-piscine-shell
+organisation behaviour
+projet individuel.pdf
+shaharad briefing sheet 2.docx
+taki.mp4
+~$ENARIO DE LA PUB OKPIA.docx
+~$MPSONS ORAL.docx
+~$SOU ORAL.docx
+~$glais pb solution.docx
+~$ncôme oral.docx
+~$pan:Canda.docx
+~$ra Quête 1 à 5  .docx
+~$ssier Communication 5.docx
+~$ssier Communication 6.docx
+~$voir écrit  à rendre.docx
+azra@MacBook-Air-de-OZDEMIR desktop % clear
+
+azra@MacBook-Air-de-OZDEMIR desktop % cd ..
+azra@MacBook-Air-de-OZDEMIR ~ % ls
+Applications	Downloads	Music		Public
+Desktop		Library		OneDrive	Sites
+Documents	Movies		Pictures
+azra@MacBook-Air-de-OZDEMIR ~ % cd desktop
+azra@MacBook-Air-de-OZDEMIR desktop % ls
+17.09.2022 CUMARTESİ AKŞAM VENEDİK DUE.mp4
+20220527 Zehra & Ercan.mp4
+AİLE
+Azra Özdemir-GL01.pdf
+Azra Özdemir_Lettre de motivation.pdf
+CV Azra OZDEMIR.pdf
+Capture d’écran 2022-11-21 à 08.54.46.png
+Capture d’écran 2022-11-21 à 08.54.54.png
+Devoir-Azra Ozdemir-BMI101.docx
+Digital project .docx
+E-commerce.docx
+EMERGING MARKET 
+Environement et pratique 
+Initiation à la recherche-SIMPSONS 
+International Business
+Intro Auditing
+JAVA.docx
+Lettre de motivation_AzraOzdemir.pdf
+MUSEUM.CanCoktail PPT.pdf
+Negociation
+ORAL SK.docx
+Organisation behaviour.pdf
+Ozdemir_Azra_LYON_DO2A.pdf
+PPT .pdf
+Photos
+Piscine00-main
+Projet final.docx
+SÉANCE 8 ET 9.pdf
+VİP
+Visual Studio Code.app
+Washing machine without electricity-Ghana.pdf
+bonjour.sh
+famille
+o-azra-piscine-shell
+organisation behaviour
+projet individuel.pdf
+shaharad briefing sheet 2.docx
+taki.mp4
+~$ENARIO DE LA PUB OKPIA.docx
+~$MPSONS ORAL.docx
+~$SOU ORAL.docx
+~$glais pb solution.docx
+~$ncôme oral.docx
+~$pan:Canda.docx
+~$ra Quête 1 à 5  .docx
+~$ssier Communication 5.docx
+~$ssier Communication 6.docx
+~$voir écrit  à rendre.docx
+azra@MacBook-Air-de-OZDEMIR desktop % cd o-azra-piscine-shell 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls
+README.md	covers
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mkdir cover
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls   
+README.md	covers
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mkdir Sony
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Sony
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd Sony 
+azra@MacBook-Air-de-OZDEMIR Sony % ls
+azra@MacBook-Air-de-OZDEMIR Sony % mkdir Consoles
+azra@MacBook-Air-de-OZDEMIR Sony % ls
+Consoles
+azra@MacBook-Air-de-OZDEMIR Sony % cd Consoles
+azra@MacBook-Air-de-OZDEMIR Consoles % ls
+azra@MacBook-Air-de-OZDEMIR Consoles % mkdir PS4
+azra@MacBook-Air-de-OZDEMIR Consoles % mkdir PS5
+azra@MacBook-Air-de-OZDEMIR Consoles % ls 
+PS4	PS5
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sony % ls
+Consoles
+azra@MacBook-Air-de-OZDEMIR Sony % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv xb  
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv 
+Sony/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg 
+Sony/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg  
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg 
+Sony/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg .//                    
+Sony/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg         
+Sony/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+ps4_fifa14.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg ./clear                
+azra@MacBook-Air-de-OZDEMIR covers % clar
+zsh: command not found: clar
+azra@MacBook-Air-de-OZDEMIR covers % clear
+
+azra@MacBook-Air-de-OZDEMIR covers % mkdir Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+clear
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mkdir Sony
+azra@MacBook-Air-de-OZDEMIR constructeurs % mkdir Consoles
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd sony
+azra@MacBook-Air-de-OZDEMIR sony % mkdir consoles
+azra@MacBook-Air-de-OZDEMIR sony % mkdir consoles portable
+mkdir: consoles: File exists
+azra@MacBook-Air-de-OZDEMIR sony % cd consoles
+azra@MacBook-Air-de-OZDEMIR consoles % mkdir PS4
+azra@MacBook-Air-de-OZDEMIR consoles % mkdir PS5
+azra@MacBook-Air-de-OZDEMIR consoles % ls
+PS4	PS5
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR sony % ls
+consoles	portable
+azra@MacBook-Air-de-OZDEMIR sony % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+clear
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_4.unchartedthelostlegacy.jpg       
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.unchartedthelostlegacy.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_4.unchartedthelostlegacy.jpg dc_shenmue_eu.jpg          
+azra@MacBook-Air-de-OZDEMIR covers % ls   
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.farcry6.jpg 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.farcry6.jpg              
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.farcry6.jpg ./           
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.farcry6.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.farcry6.jpg ./Constructeurs/  
+azra@MacBook-Air-de-OZDEMIR covers % ls              
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony				playstation_5.farcry6.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_5.farcry6.jpg ./Sony/consoles/PS5
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mkdir nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd nintendo
+azra@MacBook-Air-de-OZDEMIR nintendo % mkdir consoles
+azra@MacBook-Air-de-OZDEMIR nintendo % mkdir portables
+azra@MacBook-Air-de-OZDEMIR nintendo % ls
+consoles	portables
+azra@MacBook-Air-de-OZDEMIR nintendo % cd consoles
+azra@MacBook-Air-de-OZDEMIR consoles % mkdir gamecube
+azra@MacBook-Air-de-OZDEMIR consoles % ls
+gamecube
+azra@MacBook-Air-de-OZDEMIR consoles % cd .. 
+azra@MacBook-Air-de-OZDEMIR nintendo % ls
+consoles	portables
+azra@MacBook-Air-de-OZDEMIR nintendo % cd portables
+azra@MacBook-Air-de-OZDEMIR portables % mkdir gameboy
+azra@MacBook-Air-de-OZDEMIR portables % ls
+gameboy
+azra@MacBook-Air-de-OZDEMIR portables % cd ..
+azra@MacBook-Air-de-OZDEMIR nintendo % ls
+consoles	portables
+azra@MacBook-Air-de-OZDEMIR nintendo % cd consoles
+azra@MacBook-Air-de-OZDEMIR consoles % ls
+gamecube
+azra@MacBook-Air-de-OZDEMIR consoles % cd gamecube
+azra@MacBook-Air-de-OZDEMIR gamecube % cd ..
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR nintendo % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./           
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./    
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./           
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./           
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+gc_supermariosunshine.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_supermariosunshine.jpg ./Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % ls                            
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony				nintendo
+gc_supermariosunshine.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gc_supermariosunshine.jpg nintendo/consoles/gamecube 
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gb_pokemonblue_eu.jpg 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemonblue_eu.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gb_pokemonblue_eu.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony			gb_pokemonblue_eu.jpg	nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gb_pokemonblue_eu.jpg nintendo/portables/gameboy 
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv   
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gameboy.pokmonred.jpg 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gameboy.pokmonred.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv gameboy.pokmonred.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % ls  
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gameboy.pokmonred.jpg ./nintendo/portables/gameboy 
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mkdir Microsoft
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+Microsoft
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % mkdir Microsoft
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls          
+Microsoft	Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft
+azra@MacBook-Air-de-OZDEMIR Microsoft % mkdir Consoles
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd Consoles
+azra@MacBook-Air-de-OZDEMIR Consoles % mkdir Xbox
+azra@MacBook-Air-de-OZDEMIR Consoles % mkdir Xbox360
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadtorights.jp 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % 
+azra@MacBook-Air-de-OZDEMIR covers % m
+zsh: command not found: m
+azra@MacBook-Air-de-OZDEMIR covers % 
+azra@MacBook-Air-de-OZDEMIR covers % 
+azra@MacBook-Air-de-OZDEMIR covers % 
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadorl
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadoralive3.jpg 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadoralive3.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadoralive3.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % cd contructeurs
+cd: no such file or directory: contructeurs
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadoralive3.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv x
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_deadoralive3.jpg ./mi-
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xb
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sony		mi-		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mv x
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv    
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadtorights.jpg 
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadtorights.jpg                  
+Constructeurs/
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_deadtorights.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadtorights.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % M
+zsh: command not found: M
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % Microsoft
+zsh: command not found: Microsoft
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % microsoft
+zsh: command not found: microsoft
+azra@MacBook-Air-de-OZDEMIR constructeurs % Microsoft
+zsh: command not found: Microsoft
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft/Consoles/Xbox./
+cd: no such file or directory: Microsoft/Consoles/Xbox./
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd microsoft
+azra@MacBook-Air-de-OZDEMIR microsoft % ls          
+Consoles
+azra@MacBook-Air-de-OZDEMIR microsoft % cd constructeurs
+cd: no such file or directory: constructeurs
+azra@MacBook-Air-de-OZDEMIR microsoft % ls
+Consoles
+azra@MacBook-Air-de-OZDEMIR microsoft % cd constructeurs
+cd: no such file or directory: constructeurs
+azra@MacBook-Air-de-OZDEMIR microsoft % cd Microsoft
+cd: no such file or directory: Microsoft
+azra@MacBook-Air-de-OZDEMIR microsoft % ls
+Consoles
+azra@MacBook-Air-de-OZDEMIR microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % LS
+Microsoft		nintendo
+Sony			xbox_deadtorights.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_deadtorights.jpg Microsoft/Consoles/Xbox    
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls
+README.md	covers
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo_2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo_2.jpg 
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo_2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % ls         
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo_2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callfoduty3.jpg
+x360_callofduty2.jpg
+x360_callofduty4.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_halo_2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo_2.jpg constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callfoduty3.jpg constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callofduty4.jpg Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % cd microsoft
+cd: no such file or directory: microsoft
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd microsoft
+cd: no such file or directory: microsoft
+azra@MacBook-Air-de-OZDEMIR covers % cd consoles
+cd: no such file or directory: consoles
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd Xbox360
+cd: no such file or directory: Xbox360
+azra@MacBook-Air-de-OZDEMIR covers % ls                              
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_jetsetradio_eu_front.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv x360_callofduty4.jpg Microsoft/Consoles/Xbox360
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		nintendo		xbox_halo_2.jpg
+Sony			x360_callfoduty3.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd constructeur
+cd: no such file or directory: constructeur
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv x360_callfoduty3.jpg Microsoft/Consoles/Xbox360
+azra@MacBook-Air-de-OZDEMIR constructeurs % LS
+Microsoft	Sony		nintendo	xbox_halo_2.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sony		nintendo	xbox_halo_2.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_halo_2.jpg Microsoft/Consoles/Xbox
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % mkdir Sega
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Sega
+azra@MacBook-Air-de-OZDEMIR Sega % mkdir Consoles
+azra@MacBook-Air-de-OZDEMIR Sega % cd Consoles
+azra@MacBook-Air-de-OZDEMIR Consoles % mkdir Dreamcast
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sega % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft	Sega		Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers %  cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % LS
+README.md	covers
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls      
+README.md	covers
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mv dc_jetsetradio_eu_front.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % ls   
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmue_eu.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers %  cd covers
+cd: no such file or directory: covers
+azra@MacBook-Air-de-OZDEMIR covers % mv dc_shenmue_eu.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft			dc_jetsetradio_eu_front.jpg
+Sega				dc_shenmue_eu.jpg
+Sony				nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv dc_jetsetradio_eu_front.jpg Sega/Consoles/Dreamcast
+azra@MacBook-Air-de-OZDEMIR constructeurs % 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd..
+zsh: command not found: cd..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % LS
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv dc_shenmue_eu.jpg Sega/Consoles/Dreamcast 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls     
+Microsoft	Sega		Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % CD ..
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_4.unchartedthelostlegacy.jpg Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % mv ps4_fifa14.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % LS
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers %    ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_4.unchartedthelostlegacy.jpg Sony  
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Sony           
+azra@MacBook-Air-de-OZDEMIR Sony % mv playstation_4.unchartedthelostlegacy.jpg consoles consoles                                
+mv: rename consoles to consoles/consoles: Invalid argument
+azra@MacBook-Air-de-OZDEMIR Sony % cd consoles
+azra@MacBook-Air-de-OZDEMIR consoles % mv playstation_4.unchartedthelostlegacy.jpg PS4 
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sony % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv ps4_fifa14.jpg Sony/consoles/PS4 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mkdir EXO 00
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mkdir exo00
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv exo00/ covers 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mv exo00 o-azra
+azra@MacBook-Air-de-OZDEMIR covers % ls 
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd o-azra-piscine-shell
+cd: no such file or directory: o-azra-piscine-shell
+azra@MacBook-Air-de-OZDEMIR covers % mkdir Exo00
+azra@MacBook-Air-de-OZDEMIR covers % mv Exo00/o-azra-piscine-shell
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % ls 
+Constructeurs
+Exo00
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % mv Exo00 ..
+azra@MacBook-Air-de-OZDEMIR covers % ls          
+Constructeurs
+dc_jetgrindradio_10.jpg
+dc_shenmueii_5.jpg
+gb_pokemongreen_3.jpg
+gb_pokemonyellow_au.jpg
+gbc_pokemongold.jpg
+gc_mariokartdoubledash.jpg
+playstation_4.assassinscreedodyssey.jpg
+playstation_4.watchdogs2.jpg
+playstation_5.assassinscreedvalhalla.jpg
+playstation_5.residentevilvillage_.jpg
+x360_callofduty2.jpg
+x360_callofdutyblackopsii.jpg
+xbox_360.fableiii.jpg
+xbox_defjamfightforny.jpg
+xbox_halo2.jpg
+xbox_jetsetradiofuture_2.jpg
+xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv covers/Exo00
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv covers/x360_callofduty2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % touch historiqu.txt
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % history -200 > historiqu.txt 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls
+Exo00		README.md	covers		historique.txt
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv covers/Exo00
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv covers/cons
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % cd covers
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadoralive3.jpg playstation_4.assassinscreedodyssey.jpg
+Constructeurs/                            playstation_5.residentevilvillage_.jpg
+dc_jetgrindradio_10.jpg                   x360_callofduty2.jpg
+dc_shenmueii_5.jpg                        x360_callofdutyblackopsii.jpg
+gb_pokemongreen_3.jpg                     xbox_360.fableiii.jpg
+gb_pokemonyellow_au.jpg                   xbox_deadoralive3.jpg
+gbc_pokemongold.jpg                       xbox_defjamfightforny.jpg
+gc_mariokartdoubledash.jpg                xbox_halo2.jpg
+playstation_4.assassinscreedodyssey.jpg   xbox_jetsetradiofuture_2.jpg
+playstation_4.watchdogs2.jpg              xbox_needforspeedunderground2.jpg
+playstation_5.assassinscreedvalhalla.jpg  
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_deadoralive3.jpg Constructeurs                    
+azra@MacBook-Air-de-OZDEMIR covers % cd Microsoft
+cd: no such file or directory: Microsoft
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs					playstation_5.assassinscreedvalhalla.jpg
+dc_jetgrindradio_10.jpg				playstation_5.residentevilvillage_.jpg
+dc_shenmueii_5.jpg				x360_callofduty2.jpg
+gb_pokemongreen_3.jpg				x360_callofdutyblackopsii.jpg
+gb_pokemonyellow_au.jpg				xbox_360.fableiii.jpg
+gbc_pokemongold.jpg				xbox_defjamfightforny.jpg
+gc_mariokartdoubledash.jpg			xbox_halo2.jpg
+playstation_4.assassinscreedodyssey.jpg		xbox_jetsetradiofuture_2.jpg
+playstation_4.watchdogs2.jpg			xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd consoles
+cd: no such file or directory: consoles
+azra@MacBook-Air-de-OZDEMIR covers % cd Xbox
+cd: no such file or directory: Xbox
+azra@MacBook-Air-de-OZDEMIR covers % mkdir dead-or-alive
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs					playstation_5.assassinscreedvalhalla.jpg
+dc_jetgrindradio_10.jpg				playstation_5.residentevilvillage_.jpg
+dc_shenmueii_5.jpg				x360_callofduty2.jpg
+gb_pokemongreen_3.jpg				x360_callofdutyblackopsii.jpg
+gb_pokemonyellow_au.jpg				xbox_360.fableiii.jpg
+gbc_pokemongold.jpg				xbox_defjamfightforny.jpg
+gc_mariokartdoubledash.jpg			xbox_halo2.jpg
+playstation_4.assassinscreedodyssey.jpg		xbox_jetsetradiofuture_2.jpg
+playstation_4.watchdogs2.jpg			xbox_needforspeedunderground2.jpg
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		Sony			xbox_deadoralive3.jpg
+Sega			nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft/ 
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd Concoles
+cd: no such file or directory: Concoles
+azra@MacBook-Air-de-OZDEMIR Microsoft % ls  
+Consoles
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft 
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd Consoles/Xbox
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir dead-or-alive
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir dead-to-right 
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir dej-jam-fight
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir halo-combat
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir jet-set-radio 
+azra@MacBook-Air-de-OZDEMIR Xbox % mkdir need-for-spe
+azra@MacBook-Air-de-OZDEMIR Xbox % ls
+dead-or-alive		dej-jam-fight		jet-set-radio		xbox_deadtorights.jpg
+dead-to-right		halo-combat		need-for-speed		xbox_halo_2.jpg
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_deadtorights.jpg dead-to-right 
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_halo_2.jpg halo-combat   
+azra@MacBook-Air-de-OZDEMIR Xbox % cd ..
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_halo2.jpg                   
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers %    mv xbox_halo2.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_needforspeedunderground2.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_jetsetradiofuture_2.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_defjamfightforny.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_deadoralive3.jpg Microsoft 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_jetsetradiofuture_2.jpg Microsoft 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_defjamfightforny.jpg Microsoft 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_halo2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_halo2.jpg Microsoft  
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_needforspeedunderground2.jpg Microsoft 
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls 
+Microsoft	Sega		Sony		nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft 
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_deadoralive3.jpg Consoles 
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_defjamfightforny.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_defjamfightforny.jpg Consoles
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_halo2.jpg Consoles 
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_jetsetradiofuture_2.jpg Consoles 
+azra@MacBook-Air-de-OZDEMIR Microsoft % mv xbox_needforspeedunderground2.jpg Consoles 
+azra@MacBook-Air-de-OZDEMIR Microsoft % ls     
+Consoles
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd Consoles
+azra@MacBook-Air-de-OZDEMIR Consoles % cd Xbox
+azra@MacBook-Air-de-OZDEMIR Xbox % cd ..
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_deadoralive3.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_deadoralive3.jpg Xbox 
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_defjamfightforny.jpg Xbox 
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_halo2.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_halo2.jpg Xbox 
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_jetsetradiofuture_2.jpg Xbox 
+azra@MacBook-Air-de-OZDEMIR Consoles % mv xbox_needforspeedunderground2.jpg Xbox 
+azra@MacBook-Air-de-OZDEMIR Consoles % ls  
+Xbox	Xbox360
+azra@MacBook-Air-de-OZDEMIR Consoles % cd Xbox
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_deadoralive3.jpg dead-or-alive 
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_defjamfightforny.jpg dej-jam-fight 
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_halo2.jpg halo-combat   
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_jetsetradiofuture_2.jpg jet-set-radio 
+azra@MacBook-Air-de-OZDEMIR Xbox % mv xbox_needforspeedunderground2.jpg need-for-speed 
+azra@MacBook-Air-de-OZDEMIR Xbox % cd ..
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % mv dc_jetgrindradio_10.jpg
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR covers % mv dc_jetgrindradio_10.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv gb_pokemongreen_3.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_4.assassinscreedodyssey.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_4.watchdogs2.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.assassinscreedvalhalla.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv playstation_5.residentevilvillage_.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv gb_pokemonyellow_au.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv gbc_pokemongold.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv gc_mariokartdoubledash.jpg  Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv dc_shenmueii_5.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv xbox_360.fableiii.jpg  Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callofduty Constructeurs 
+mv: rename x360_callofduty to Constructeurs/x360_callofduty: No such file or directory
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callofduty  Constructeurs 
+mv: rename x360_callofduty to Constructeurs/x360_callofduty: No such file or directory
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callofduty2.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % mv x360_callofdutyblackopsii.jpg Constructeurs 
+azra@MacBook-Air-de-OZDEMIR covers % ls
+Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % ls                                                          
+Constructeurs
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv x360_callofduty2.jpg Microsoft/Consoles/Xbox360 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd consoles
+azra@MacBook-Air-de-OZDEMIR consoles % cd Xbox360 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mkdir call-of-duty2
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mkdir call-of-duty3
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mkdir call-of-duty4
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mkdir call-of-dutyBO
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mdkdir fableIII
+zsh: command not found: mdkdir
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mkdir fableIII
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mv x360_callofduty2.jpg x360_callofduty2.jpg
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mv x360_callfoduty3.jpg call-of-duty3 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mv x360_callofduty2.jpg call-of-duty2 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mv x360_callofduty4.jpg  call-of-duty4 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % cd ..
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv x360_callofdutyblackopsii.jpg Microsoft/Consoles/Xbox360 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv xbox_360.fableiii.jpg Microsoft/Consoles/Xbox360/fableIII
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft					gbc_pokemongold.jpg
+Sega						gc_mariokartdoubledash.jpg
+Sony						nintendo
+dc_jetgrindradio_10.jpg				playstation_4.assassinscreedodyssey.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd consoles
+cd: no such file or directory: consoles
+azra@MacBook-Air-de-OZDEMIR constructeurs %  ls  
+Microsoft					gbc_pokemongold.jpg
+Sega						gc_mariokartdoubledash.jpg
+Sony						nintendo
+dc_jetgrindradio_10.jpg				playstation_4.assassinscreedodyssey.jpg
+dc_shenmueii_5.jpg				playstation_4.watchdogs2.jpg
+gb_pokemongreen_3.jpg				playstation_5.assassinscreedvalhalla.jpg
+gb_pokemonyellow_au.jpg				playstation_5.residentevilvillage_.jpg
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd constructeurs
+cd: no such file or directory: constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Microsoft/Consoles 
+azra@MacBook-Air-de-OZDEMIR Consoles % cd Xbox360 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % mv x360_callofdutyblackopsii.jpg call-of-dutyBO 
+azra@MacBook-Air-de-OZDEMIR Xbox360 % cd ..
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Microsoft % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Sony 
+azra@MacBook-Air-de-OZDEMIR Sony % cd consoles consoles/PS4 
+cd: string not in pwd: consoles
+azra@MacBook-Air-de-OZDEMIR Sony % mkdir assassin-creed
+azra@MacBook-Air-de-OZDEMIR Sony % ls
+consoles	portable
+azra@MacBook-Air-de-OZDEMIR Sony % cd consoles 
+azra@MacBook-Air-de-OZDEMIR consoles % cd PS4 
+azra@MacBook-Air-de-OZDEMIR PS4 % mkdir assassin-creed
+azra@MacBook-Air-de-OZDEMIR PS4 % mkdir fifa14
+azra@MacBook-Air-de-OZDEMIR PS4 % mkdir uncharted
+azra@MacBook-Air-de-OZDEMIR PS4 % mkdir watch-dogs2
+azra@MacBook-Air-de-OZDEMIR PS4 % mv playstation_4.unchartedthelostlegacy.jpg uncharted     
+azra@MacBook-Air-de-OZDEMIR PS4 % mv ps4_fifa14.jpg fifa14         
+azra@MacBook-Air-de-OZDEMIR PS4 % cd ..
+azra@MacBook-Air-de-OZDEMIR consoles % cd ;;
+zsh: parse error near `;;'
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sony % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_4.assassinscreedodyssey.jpg Sony/consoles/PS4/assassin-creed 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_4.watchdogs2.jpg Sony/consoles/PS4/watch-dogs2 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Sony/consoles/PS5 
+azra@MacBook-Air-de-OZDEMIR PS5 % mkdir assassin-creed
+azra@MacBook-Air-de-OZDEMIR PS5 % mv farcry6
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+azra@MacBook-Air-de-OZDEMIR PS5 % mkdir far-cry6
+azra@MacBook-Air-de-OZDEMIR PS5 % mkdir resident-evil
+azra@MacBook-Air-de-OZDEMIR PS5 % ls
+assassin-creed			playstation_5.farcry6.jpg
+far-cry6			resident-evil
+azra@MacBook-Air-de-OZDEMIR PS5 % mv playstation_5.farcry6.jpg far-cry6       
+azra@MacBook-Air-de-OZDEMIR PS5 % cd ..
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sony % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_5.residentevilvillage_.jpg Sony/consoles/PS5/resident-evil 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv playstation_5.assassinscreedvalhalla.jpg Sony/consoles/PS5/assassin-creed 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd nintendo/consoles/gamecube 
+azra@MacBook-Air-de-OZDEMIR gamecube % mkdir mario-kart
+azra@MacBook-Air-de-OZDEMIR gamecube %  mkdir supermario-sunshine
+azra@MacBook-Air-de-OZDEMIR gamecube % ls
+gc_supermariosunshine.jpg	mario-kart			supermario-sunshine
+azra@MacBook-Air-de-OZDEMIR gamecube % mv supermario-sunshine/ supermario-sunshine      
+mv: rename supermario-sunshine/ to supermario-sunshine/supermario-sunshine/: Invalid argument
+azra@MacBook-Air-de-OZDEMIR gamecube % ls
+gc_supermariosunshine.jpg	mario-kart			supermario-sunshine
+azra@MacBook-Air-de-OZDEMIR gamecube % mv gc_supermariosunshine.jpg supermario-sunshine      
+azra@MacBook-Air-de-OZDEMIR gamecube % cd ..
+azra@MacBook-Air-de-OZDEMIR consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR nintendo % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gc_mariokartdoubledash.jpg nintendo/consoles/gamecube/mario-kart 
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd constructeurs
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd nintendo/portables/gameboy 
+azra@MacBook-Air-de-OZDEMIR gameboy % mkdir pokemon_blue
+azra@MacBook-Air-de-OZDEMIR gameboy % mkdir pokemon-gold
+azra@MacBook-Air-de-OZDEMIR gameboy % pokemon-red
+zsh: command not found: pokemon-red
+azra@MacBook-Air-de-OZDEMIR gameboy % mkdir pokemon-red
+azra@MacBook-Air-de-OZDEMIR gameboy % mkdir pokemon-green
+azra@MacBook-Air-de-OZDEMIR gameboy % mkdir pokemon-yellow
+azra@MacBook-Air-de-OZDEMIR gameboy % mv gameboy.pokmonred.jpg pokemon-red          
+azra@MacBook-Air-de-OZDEMIR gameboy % mv gb_pokemonblue_eu.jpg pokemon-blue         
+azra@MacBook-Air-de-OZDEMIR gameboy % cd ..
+azra@MacBook-Air-de-OZDEMIR portables % cd ..
+azra@MacBook-Air-de-OZDEMIR nintendo % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gb_pokemongreen_3.jpg nintendo/portables/gameboy/pokemon-green 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gb_pokemonyellow_au.jpg nintendo/portables/gameboy/pokemon-yellow 
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv gbc_pokemongold.jpg nintendo/portables/gameboy/pokemon-gold   
+azra@MacBook-Air-de-OZDEMIR constructeurs % ls
+Microsoft		Sony			dc_shenmueii_5.jpg
+Sega			dc_jetgrindradio_10.jpg	nintendo
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd Sega/Consoles/Dreamcast/                          
+azra@MacBook-Air-de-OZDEMIR Dreamcast % mkdir Jetset-radio
+azra@MacBook-Air-de-OZDEMIR Dreamcast % mkdir shenmue
+azra@MacBook-Air-de-OZDEMIR Dreamcast % mv dc_jetsetradio_eu_front.jpg jetset-radio     
+azra@MacBook-Air-de-OZDEMIR Dreamcast % mv dc_shenmue_eu.jpg shenmue          
+azra@MacBook-Air-de-OZDEMIR Dreamcast % cd ..
+azra@MacBook-Air-de-OZDEMIR Consoles % cd ..
+azra@MacBook-Air-de-OZDEMIR Sega % cd ..
+azra@MacBook-Air-de-OZDEMIR constructeurs % mv dc_jetgrindradio_10.jpg Sega/Consoles/Dreamcast/jetset-radio
+azra@MacBook-Air-de-OZDEMIR constructeurs % MV dc_shenmueii_5.jpg Sega/Consoles/Dreamcast/shenmue
+azra@MacBook-Air-de-OZDEMIR constructeurs % cd ..
+azra@MacBook-Air-de-OZDEMIR covers % cd ..
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv covers/ Exo00 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv historique.txt Exo00 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % history - 500 > historique.txt
+fc: no such event: 500
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % touch historique.txt
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % history - 500> historique.txt
+fc: no such event: 500
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls
+Exo00		README.md	historique.txt
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % ls
+Exo00		README.md	historique.txt
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % mv historique.txt Exo00 
+azra@MacBook-Air-de-OZDEMIR o-azra-piscine-shell % 
